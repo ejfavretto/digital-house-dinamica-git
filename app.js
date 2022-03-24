@@ -12,6 +12,14 @@ function listarMarcasVeiculo() {
 }
 
 /**
+ * Listar todas as marcas de veículos com o código
+ */
+function listarMarcasVeiculoComCodigo() {
+  marcasVeiculo.map(marca => console.log(marca.codigo + ' - ' + marca.nome))
+}
+
+/**
  * Execução da função para listar todos as marcas de veículo do json
  */
 listarMarcasVeiculo()
+listarMarcasVeiculoComCodigo()
