@@ -1,0 +1,23 @@
+{
+  "name": "digital-house-dinamica-git",
+  "version": "1.0.0",
+  "description": "Atividade para conhecimento e treinamento dos comandos do git que será utilizado no desenvolvimento do Projeto Integrador.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejfavretto/digital-house-dinamica-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejfavretto/digital-house-dinamica-git/issues"
+  },
+  "homepage": "https://github.com/ejfavretto/digital-house-dinamica-git#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
